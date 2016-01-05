@@ -1,0 +1,96 @@
+gnu_getopt_long.o: gnu_getopt_long.c ../include/gnu_getopt.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/stdio.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/features.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/predefs.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/cdefs.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/wordsize.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/gnu/stubs.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../lib/gcc/arm-linux-gnueabi/4.6.3/include/stddef.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/types.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/typesizes.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/libio.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/_G_config.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/wchar.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../lib/gcc/arm-linux-gnueabi/4.6.3/include/stdarg.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/stdio_lim.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/sys_errlist.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/stdio.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/stdlib.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/waitflags.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/waitstatus.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/endian.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/endian.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/byteswap.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/types.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/time.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/select.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/select.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/sigset.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/time.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/sysmacros.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/pthreadtypes.h \
+ /home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/alloca.h
+
+../include/gnu_getopt.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/stdio.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/features.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/predefs.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/cdefs.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/wordsize.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/gnu/stubs.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../lib/gcc/arm-linux-gnueabi/4.6.3/include/stddef.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/types.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/typesizes.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/libio.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/wchar.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../lib/gcc/arm-linux-gnueabi/4.6.3/include/stdarg.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/stdio_lim.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/sys_errlist.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/stdio.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/waitflags.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/waitstatus.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/endian.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/byteswap.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/types.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/time.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/select.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/select.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/sigset.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/time.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/sys/sysmacros.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/arm-linux-gnueabi/bits/pthreadtypes.h:
+
+/home/alex/work/source/Along_A33_Android/working/lichee/out/sun8iw5p1/android/common/buildroot/external-toolchain/bin/../arm-linux-gnueabi/libc/usr/include/alloca.h:
